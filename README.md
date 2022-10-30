@@ -1,4 +1,12 @@
-- 👋 Hi, I’m @MounikaGanjikunta
+<h1 align="center"> Hello, I'm Mounika Ganjikunta 👨‍💻 </h1>
+
+<p align="center"> 
+<a href="https://www.linkedin.com/in/mounikaganjikunta/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mounikaganjikunta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mounikaganjikunta/"></a>
+</p>
+   
+
+
+
 - 👨‍💻 My Portfolio: https://mounikaganjikunta.github.io/Portfolio/
 - 🌱 Languages and Tools: 
 
@@ -23,8 +31,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounikaGanjikunta&layout=compact" />
     </a>
     
-    
-   
+
 
 <!---
 MounikaGanjikunta/MounikaGanjikunta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
