@@ -28,7 +28,7 @@
    <a href="https://www.linkedin.com/in/mounikaganjikunta/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mounikaganjikunta-blue?style=flat-               
     square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mounikaganjikunta/"></a>
    </p>
-   <a href="https://twitter.com/MGFido"><img alt="Twitter" ></a>
+<!--    <a href="https://twitter.com/MGFido"><img alt="Twitter" ></a> -->
    
 
     
