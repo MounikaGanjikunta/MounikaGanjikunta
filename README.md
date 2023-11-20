@@ -26,16 +26,16 @@
     square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mounikaganjikunta/"></a>
    </p>
 <!--    <a href="https://twitter.com/MGFido"><img alt="Twitter" ></a> -->
-   
+<!--    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounikaGanjikunta&layout=compact" />
+    </a> -->
 
 
 <!-- 
 - 👨‍💻 My Portfolio: https://mounikaganjikunta.github.io/Portfolio/ -->
     
     
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounikaGanjikunta&layout=compact" />
-    </a>
+    
 
     
 
