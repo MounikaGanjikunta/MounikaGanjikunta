@@ -5,9 +5,6 @@
 - Passionate about Java programming and actively building my basics strong with data structures and algorithms via LeetCode coding problems.
 - Sharing insights into my coding journey on Twitter (https://twitter.com/MGFido)
 - Enthusiastic learner seeking connections to discover new opportunities and expand my knowledge horizons
-
-<!-- 
-- 👨‍💻 My Portfolio: https://mounikaganjikunta.github.io/Portfolio/ -->
 - 🌱 Languages and Tools: 
 
     <div>
@@ -23,7 +20,7 @@
    </div>
    
    <br>
-
+    
    <p align="center"> 
    <a href="https://www.linkedin.com/in/mounikaganjikunta/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mounikaganjikunta-blue?style=flat-               
     square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mounikaganjikunta/"></a>
@@ -31,12 +28,15 @@
 <!--    <a href="https://twitter.com/MGFido"><img alt="Twitter" ></a> -->
    
 
+
+<!-- 
+- 👨‍💻 My Portfolio: https://mounikaganjikunta.github.io/Portfolio/ -->
     
-    <!---
+    
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounikaGanjikunta&layout=compact" />
     </a>
-  --->
+
     
 
 
