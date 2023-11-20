@@ -1,17 +1,10 @@
 <h1 align="center"> Hello, I'm Mounika Ganjikunta 👨‍💻, a Full Stack Developer, always eager to explore new technologies.</h1>
-Passionate about Java programming and actively engaging with data structures and algorithms via LeetCode challenges.
-Sharing insights into my coding journey on Twitter (https://twitter.com/MGFido)
-Enthusiastic learner seeking connections to discover new opportunities and expand my knowledge horizons
+- Passionate about Java programming and actively engaging with data structures and algorithms via LeetCode challenges.
+- Sharing insights into my coding journey on Twitter (https://twitter.com/MGFido)
+- Enthusiastic learner seeking connections to discover new opportunities and expand my knowledge horizons
 
-
-<p align="center"> 
-<a href="https://www.linkedin.com/in/mounikaganjikunta/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mounikaganjikunta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mounikaganjikunta/"></a>
-</p>
-   
-
-
-
-- 👨‍💻 My Portfolio: https://mounikaganjikunta.github.io/Portfolio/
+<!-- 
+- 👨‍💻 My Portfolio: https://mounikaganjikunta.github.io/Portfolio/ -->
 - 🌱 Languages and Tools: 
 
     <div>
@@ -27,6 +20,12 @@ Enthusiastic learner seeking connections to discover new opportunities and expan
    </div>
    
    <br>
+
+   <p align="center"> 
+   <a href="https://www.linkedin.com/in/mounikaganjikunta/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mounikaganjikunta-blue?style=flat-               
+    square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mounikaganjikunta/"></a>
+   </p>
+   <a href="https://twitter.com/MGFido"><img alt="Twitter" ></a>
    
 
     
