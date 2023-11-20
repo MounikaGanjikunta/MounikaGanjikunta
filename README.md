@@ -1,4 +1,7 @@
-<h1 align="center"> Hello, I'm Mounika Ganjikunta 👨‍💻, a Full Stack Developer, always eager to explore new technologies.</h1>
+<h1 align="center"> Hello, I'm Mounika Ganjikunta 👨‍💻</h1>
+
+
+- A Full Stack Developer, always eager to explore new technologies.
 - Passionate about Java programming and actively engaging with data structures and algorithms via LeetCode challenges.
 - Sharing insights into my coding journey on Twitter (https://twitter.com/MGFido)
 - Enthusiastic learner seeking connections to discover new opportunities and expand my knowledge horizons
