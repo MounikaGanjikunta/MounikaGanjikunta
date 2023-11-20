@@ -1,4 +1,8 @@
-<h1 align="center"> Hello, I'm Mounika Ganjikunta 👨‍💻 </h1>
+<h1 align="center"> Hello, I'm Mounika Ganjikunta 👨‍💻, a Full Stack Developer, always eager to explore new technologies.</h1>
+<h1 align="center"> Passionate about Java programming and actively engaging with data structures and algorithms via LeetCode challenges.</h1>
+<h1 align="center"> Sharing insights into my coding journey on Twitter <a href="https://twitter.com/MGFido"></h1>
+<h1 align="center"> Enthusiastic learner seeking connections to discover new opportunities and expand my knowledge horizons.</h1>
+
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/mounikaganjikunta/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mounikaganjikunta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mounikaganjikunta/"></a>
@@ -17,8 +21,8 @@
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<!--         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> -->
    
    </div>
    
