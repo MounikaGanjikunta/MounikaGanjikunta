@@ -2,7 +2,7 @@
 
 
 - A Full Stack Developer, always eager to explore new technologies.
-- Passionate about Java programming and actively building my basics strong with data structures and algorithms via LeetCode coding problems.
+- Passionate about Java programming and actively building my basics in data structures and algorithms via LeetCode coding problems.
 - Sharing insights into my coding journey on Twitter (https://twitter.com/MGFido)
 - Enthusiastic learner seeking connections to discover new opportunities and expand my knowledge horizons
 - 🌱 Languages and Tools:
