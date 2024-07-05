@@ -5,7 +5,7 @@
 - Passionate about Java programming and actively building my basics in data structures and algorithms via LeetCode coding problems.
 - Sharing insights into my coding journey on Twitter (https://twitter.com/MGFido)
 - Enthusiastic learner seeking connections to discover new opportunities and expand my knowledge horizons
-- Hobbies: Drawing, singing, solving rubix cube, enjoying food or movies
+- Detours from routine: Drawing, singing, solving rubix cube, enjoying food or movies
 - 🌱 Languages and Tools:
 
 
