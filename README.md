@@ -1,11 +1,11 @@
-<h1 align="center"> Hello, I'm Mounika Ganjikunta 👨‍💻</h1>
+<h1 align="center"> Hello, I'm Mounika Ganjikunta 👩‍💻</h1>
 
 
 - A Software Developer, always eager to explore new technologies.
 - Passionate about Java programming and actively building my basics in data structures and algorithms via LeetCode coding problems.
 - Sharing insights into my coding journey on Twitter (https://twitter.com/MGFido)
 - Enthusiastic learner seeking connections to discover new opportunities and expand my knowledge horizons
-- Detours from routine: Drawing, singing, solving rubix cube, enjoying food or movies
+- Detours from routine: Drawing, singing, solving rubix cube, cooking/enjoying food, movies
 - 🌱 Languages and Tools:
 
 
