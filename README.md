@@ -1,5 +1,5 @@
 Hello World! 👋  
-I am a Senior Software Engineer at the Public Protection Cabinet, KY, with over 6 years of experience in building scalable, enterprise-grade software across diverse teams and domains.   
+I am a Senior Software Engineer at the Public Protection Cabinet, KY, with over 7 years of experience in building scalable, enterprise-grade software across diverse teams and domains.   
 🎓 I hold a Master’s degree in Computer Science from The University of Georgia, where I developed a strong foundation in software engineering principles, algorithms, and emerging technologies.
 
 🔧 My technical expertise includes:
