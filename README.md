@@ -1,35 +1,19 @@
 # Hi, I'm Mounika 👋
 
-I'm a **Backend Software Engineer** with 8+ years of experience building scalable applications across public sector, financial services, and AI-enabled platforms.
+Software engineer building backend, full-stack, and applied AI systems.
 
-I enjoy designing backend systems, building APIs, solving complex business problems, and developing reliable, scalable software.
+> I use AI where it helps interpret complexity—and deterministic software where correctness must be provable.
 
-## 🚀 What I Build
+### Selected work
 
-- Backend Applications
-- REST APIs & Microservices
-- Cloud-native Solutions
-- AI-enabled Backend Workflows
-- Data-intensive Applications
+- **[Personalized Healthcare AI Assistant](https://github.com/MounikaGanjikunta/Personalized-AI-Healthcare-Assistant)** — multimodal LLM workflows, RAG, semantic retrieval, and traceable request state on AWS.
+- **[UsageLens](https://github.com/MounikaGanjikunta/usagelens-cloudflare)** — AI-assisted billing investigation with Cloudflare Agents, Durable Objects, Workers AI, and deterministic reconciliation. [Live demo](https://usagelens.g-mounika36.workers.dev)
+- **[Food Safety and Shelf-Life Modeling](https://github.com/MounikaGanjikunta/Shelf-life-prediction)** — predictive microbiology translated into a self-service Python application for food-safety analysis.
 
-## 🛠 Tech Stack
+### Tools I reach for
 
-**Backend:** Java, Spring Boot, ASP.NET Core, FastAPI, Python
+`Java` · `C#` · `Python` · `TypeScript` · `Spring Boot` · `ASP.NET Core` · `FastAPI` · `React` · `Angular` · `PostgreSQL` · `AWS` · `Cloudflare`
 
-**Frontend:** Angular, React, TypeScript
+### Elsewhere
 
-**Databases:** PostgreSQL, SQL Server, MongoDB, Redis
-
-**Cloud & DevOps:** AWS (EC2, S3, RDS, SQS), Docker, Jenkins, Git
-
-## 🌱 Currently Exploring
-
-- Distributed Systems
-- System Design
-- Cloud Architecture
-- AI Engineering
-
-## 📫 Connect
-
-- 💼 LinkedIn: www.linkedin.com/in/mounikaganjikunta
-- 📧 g.mounika36@gmail.com
+[Portfolio](https://mounikaganjikunta.github.io/) · [Technical writing](https://medium.com/@g.mounika36) · [LinkedIn](https://www.linkedin.com/in/mounikaganjikunta/)
