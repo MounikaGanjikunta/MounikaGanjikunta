@@ -1,19 +1,19 @@
 # Hi, I'm Mounika 👋
 
-Software engineer building backend, full-stack, and applied AI systems.
+Software engineer focused on building dependable systems and turning complex requirements into clear, maintainable products.
 
-> I use AI where it helps interpret complexity—and deterministic software where correctness must be provable.
+My work spans backend and full-stack development, enterprise modernization, cloud platforms, and data-intensive applications.
 
-### Selected work
+### What I value
 
-- **[Personalized Healthcare AI Assistant](https://github.com/MounikaGanjikunta/Personalized-AI-Healthcare-Assistant)** — multimodal LLM workflows, RAG, semantic retrieval, and traceable request state on AWS.
-- **[UsageLens](https://github.com/MounikaGanjikunta/usagelens-cloudflare)** — AI-assisted billing investigation with Cloudflare Agents, Durable Objects, Workers AI, and deterministic reconciliation. [Live demo](https://usagelens.g-mounika36.workers.dev)
-- **[Food Safety and Shelf-Life Modeling](https://github.com/MounikaGanjikunta/Shelf-life-prediction)** — predictive microbiology translated into a self-service Python application for food-safety analysis.
+- Clear architecture over unnecessary complexity
+- Reliable, observable systems
+- Software that solves real operational problems
 
-### Tools I reach for
+### Core stack
 
-`Java` · `C#` · `Python` · `TypeScript` · `Spring Boot` · `ASP.NET Core` · `FastAPI` · `React` · `Angular` · `PostgreSQL` · `AWS` · `Cloudflare`
+`Java` · `C#` · `Python` · `TypeScript` · `Spring Boot` · `ASP.NET Core` · `FastAPI` · `React` · `Angular` · `PostgreSQL` · `AWS`
 
-### Elsewhere
+### Find me online
 
 [Portfolio](https://mounikaganjikunta.github.io/) · [Technical writing](https://medium.com/@g.mounika36) · [LinkedIn](https://www.linkedin.com/in/mounikaganjikunta/)
